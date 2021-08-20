@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h2 {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    letter-spacing: 1px;
+}
+
+p {
+    font-family: 'Oxygen', sans-serif;
+    letter-spacing: 2px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.content {
+    position: absolute;
+    color: aliceblue;
+}
+
+.content h2 {
+    text-align: center;
+}
