@@ -1,0 +1,11 @@
+body {
+    background-color: #F1f5f8;
+}
+  
+button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-transform: uppercase;
+    
+}

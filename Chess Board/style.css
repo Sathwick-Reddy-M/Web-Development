@@ -1,0 +1,23 @@
+body {
+    background-color: #ddf3f5;
+}
+  
+.board {
+    display: grid;
+    grid-template-columns: repeat(8, 90px);
+    grid-template-rows: repeat(8, 90px);
+    text-align: center;
+    padding-bottom: 15px; 
+    font-size: 4em;
+    justify-content: center;
+    align-content: center;
+}
+  
+.white {
+    background-color: #CC9900;
+}
+  
+.black {
+    background-color: #663300;
+}
+  
